@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sanchez&display=swap");
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.translate_header {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10vh;
+  background-color: rgb(40, 146, 215);
+  height: 15vh;
+  border-bottom: 5px solid black;
+  padding-top: 5vh;
+  text-align: center;
+  font-family: "Love Ya Like A Sister", cursive;
+}
+.translate_header > div > h1 {
+  color: white;
+  letter-spacing: 5px;
+}
+.translate_user_image > img {
+  width: 60px;
+  height: 43px;
+  cursor: pointer;
+}
+.translate_header_chaild {
+  display: flex;
+  align-items: center;
+  gap: 4vh;
+}
+.translate_header_chaild > div > button {
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 5px 10px 5px 10px;
+  background-color: black;
+  margin-right: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.translate_body {
+  background-color: rgb(249, 199, 132);
+  height: 70vh;
+  display: flex;
+  justify-content: flex-end;
+}
+.translate_body_firstchaild {
+  height: 70vh;
+  width: 50%;
+  margin-top: 50px;
+  margin-right: 20px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+}
+
+.translate_body_firstchaild>form>input{
+border: none;
+cursor: pointer;
+}
+
+.translate_body_firstchaild>form>input{
+  border: none;
+  cursor: pointer;
+  }
+
+
+
+.footer_translate {
+  background-color: rgb(40, 146, 215);
+  height: 15vh;
+}

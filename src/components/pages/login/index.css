@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap");
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.header_login {
+  background-color: rgb(40, 146, 215);
+  height: 15vh;
+  border-bottom: 5px solid black;
+  padding-top: 5vh;
+  text-align: center;
+  font-weight: bold;
+  font-size: xx-large;
+  font-family: "Love Ya Like A Sister", cursive;
+}
+
+.header_login > p {
+  color: white;
+}
+.body_contianer_login {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(249, 199, 132);
+  height: 70vh;
+}
+.robo_img_login {
+  display: flex;
+  align-items: flex-end;
+  height: 80vh;
+}
+.robo_img_login > div > img {
+  height: 60vh;
+  padding-left: 22px;
+}
+.userinput_login {
+  display: flex;
+  align-items: flex-end;
+  height: 56vh;
+  margin-right: 20px;
+}
+.userinput_login > div > form {
+  border: 2px solid black;
+  background: white;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+.userinput_login > div > form > input {
+  width: 50vh;
+  padding: 3vh 10vh 3vh 0vh;
+  margin: 10px;
+  border: none;
+  justify-content: center;
+  border-radius: 15px;
+  background-color: #D3D3D3;
+}
+.userinput_login_form > input::placeholder {
+  color: black;
+
+  text-align: start;
+  font-size: 20px;
+}
+.userinput_login_form{
+  display: flex;
+}
+.userinput_login_form>button{
+  border: none;
+
+}
+.userinput_login_button {
+  align-items: center;
+  color: yellow;
+ background-color: white;
+
+  width: 40px;
+  height: 40px;
+}
+.footer_login {
+  background-color: rgb(40, 146, 215);
+  height: 15vh;
+}

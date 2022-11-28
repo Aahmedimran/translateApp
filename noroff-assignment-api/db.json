@@ -1,0 +1,1087 @@
+{
+  "trivia": [
+    {
+      "id": 1,
+      "username": "dewaldels",
+      "highScore": 0
+    },
+    {
+      "username": "gingerbread",
+      "highScore": 0,
+      "id": 2
+    }
+  ],
+  "translations": [
+    {
+      "id": 1,
+      "username": "dewaldels",
+      "translations": [
+        "hello world",
+        "react is fun"
+      ]
+    },
+    {
+      "username": "test",
+      "translations": [
+        "hello",
+        "ahmed"
+      ],
+      "id": 2
+    },
+    {
+      "username": "test",
+      "translations": [],
+      "id": 3
+    },
+    {
+      "username": "test 1",
+      "translations": [],
+      "id": 4
+    },
+    {
+      "username": "test 7",
+      "translations": [],
+      "id": 5
+    },
+    {
+      "username": "test 7",
+      "translations": [],
+      "id": 6
+    },
+    {
+      "username": "0315120",
+      "translate": [],
+      "id": 7
+    },
+    {
+      "username": "0315120",
+      "translate": [],
+      "id": 8
+    },
+    {
+      "username": "gggg",
+      "translate": [],
+      "id": 9
+    },
+    {
+      "username": "retdhethbet",
+      "translate": [],
+      "id": 10
+    },
+    {
+      "username": "retdhethbet",
+      "translate": [],
+      "id": 11
+    },
+    {
+      "username": "retdhethbet",
+      "translate": [],
+      "id": 12
+    },
+    {
+      "username": "retdhethbet",
+      "translate": [],
+      "id": 13
+    },
+    {
+      "username": "retdhethbet",
+      "translate": [],
+      "id": 14
+    },
+    {
+      "username": "retdhethbet",
+      "translate": [],
+      "id": 15
+    },
+    {
+      "username": "retdhethbet",
+      "translate": [],
+      "id": 16
+    },
+    {
+      "username": "bgdngn",
+      "translate": [],
+      "id": 17
+    },
+    {
+      "username": "ahmed",
+      "translate": [],
+      "id": 18
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 19
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 20
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 21
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 22
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 23
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 24
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 25
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 26
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 27
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 28
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 29
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 30
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 31
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 32
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 33
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 34
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 35
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 36
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 37
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 38
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 39
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 40
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 41
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 42
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 43
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 44
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 45
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 46
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 47
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 48
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 49
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 50
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 51
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 52
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 53
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 54
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 55
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 56
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 57
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 58
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 59
+    },
+    {
+      "username": "03151203215",
+      "translate": [],
+      "id": 60
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 61
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 62
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 63
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 64
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 65
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 66
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 67
+    },
+    {
+      "username": "Muhammad Ahmed Imran",
+      "translate": [],
+      "id": 68
+    },
+    {
+      "username": "Muhammad Ahmed Imran",
+      "translate": [],
+      "id": 69
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 70
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 71
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 72
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 73
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 74
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 75
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 76
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 77
+    },
+    {
+      "username": "Power Bank 2in1",
+      "translate": [],
+      "id": 78
+    },
+    {
+      "username": "Power Bank 2in1",
+      "translate": [],
+      "id": 79
+    },
+    {
+      "username": "Power Bank 2in1",
+      "translate": [],
+      "id": 80
+    },
+    {
+      "username": "Power Bank 2in1",
+      "translate": [],
+      "id": 81
+    },
+    {
+      "username": "Power Bank 2in1",
+      "translate": [],
+      "id": 82
+    },
+    {
+      "username": "Power Bank 2in1",
+      "translate": [],
+      "id": 83
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 84
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 85
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 86
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 87
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 88
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 89
+    },
+    {
+      "username": "Sft",
+      "translate": [],
+      "id": 90
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 91
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 92
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 93
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 94
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 95
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 96
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 97
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 98
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 99
+    },
+    {
+      "username": "dddddddddddd",
+      "translate": [],
+      "id": 100
+    },
+    {
+      "username": "dddddddddddd",
+      "translate": [],
+      "id": 101
+    },
+    {
+      "username": "dddddddddddd",
+      "translate": [],
+      "id": 102
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 103
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 104
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 105
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 106
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 107
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 108
+    },
+    {
+      "username": "test 7",
+      "translations": [],
+      "id": 109
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 110
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 111
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 112
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 113
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 114
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 115
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 116
+    },
+    {
+      "id": 117
+    },
+    {
+      "id": 118
+    },
+    {
+      "id": 119
+    },
+    {
+      "id": 120
+    },
+    {
+      "id": 121
+    },
+    {
+      "id": 122
+    },
+    {
+      "id": 123
+    },
+    {
+      "id": 124
+    },
+    {
+      "id": 125
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 126
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 127
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 128
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 129
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 130
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 131
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 132
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 133
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 134
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 135
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 136
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 137
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 138
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 139
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 140
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 141
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 142
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 143
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 144
+    },
+    {
+      "username": "t",
+      "translate": [],
+      "id": 145
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 146
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 147
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 148
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 149
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 150
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 151
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 152
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 153
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 154
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 155
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 156
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 157
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 158
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 159
+    },
+    {
+      "username": "test",
+      "translate": [],
+      "id": 160
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 161
+    },
+    {
+      "username": "Muhammad Haseeb Ahmed",
+      "translate": [],
+      "id": 162
+    },
+    {
+      "username": "jhj",
+      "translate": [],
+      "id": 163
+    },
+    {
+      "username": "jl;",
+      "translate": [],
+      "id": 164
+    },
+    {
+      "username": "jkl",
+      "translate": [],
+      "id": 165
+    },
+    {
+      "username": "ahmed",
+      "translate": [],
+      "id": 166
+    },
+    {
+      "username": "ahmed",
+      "translate": [],
+      "id": 167
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 168
+    },
+    {
+      "username": "hhh",
+      "translate": [],
+      "id": 169
+    },
+    {
+      "username": "aaaa",
+      "translate": [],
+      "id": 170
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 171
+    },
+    {
+      "username": "jjj",
+      "translate": [],
+      "id": 172
+    },
+    {
+      "username": "ahmed",
+      "translate": [],
+      "id": 173
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 174
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 175
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 176
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 177
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 178
+    },
+    {
+      "username": "fff",
+      "translate": [],
+      "id": 179
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 180
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 181
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 182
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 183
+    },
+    {
+      "username": "hello",
+      "translate": [],
+      "id": 184
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 185
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 186
+    },
+    {
+      "username": "",
+      "translate": [],
+      "id": 187
+    },
+    {
+      "username": "sss",
+      "translate": [],
+      "id": 188
+    },
+    {
+      "username": "aa",
+      "translate": [],
+      "id": 189
+    },
+    {
+      "username": "aa",
+      "translate": [],
+      "id": 190
+    },
+    {
+      "username": "aa",
+      "translate": [],
+      "id": 191
+    },
+    {
+      "username": "aa",
+      "translate": [],
+      "id": 192
+    }
+  ],
+  "trainers": [
+    {
+      "id": 1,
+      "username": "hello",
+      "pokemon": [
+        "bulbasaur",
+        "pikachu"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "mrbeta",
+      "favourites": []
+    }
+  ],
+  "guitars": [
+    {
+      "id": "916E597F-C629-4306-BD31-BBF767D9A8AA",
+      "model": "Telecaster Thinline Original '60s",
+      "manufacturer": "Fender",
+      "bodyType": "Semi-Hollow",
+      "materials": {
+        "neck": "Maple",
+        "fretboard": "Maple (Coated)",
+        "body": "Mahogany"
+      },
+      "strings": 6,
+      "image": "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0110172834_gtr_frt_001_rr.jpg"
+    },
+    {
+      "id": "CFC91368-9BD8-4AA5-BB85-9D5716A93FE3",
+      "model": "Player Stratocaster",
+      "manufacturer": "Fender",
+      "bodyType": "Solid",
+      "materials": {
+        "neck": "Maple",
+        "fretboard": "Maple (Coated)",
+        "body": "Alder"
+      },
+      "strings": 6,
+      "image": "https://www.fmicassets.com/Damroot/LgJpg/10001/0144502500_gtr_frt_001_rr.jpg"
+    },
+    {
+      "id": "60DB75A5-CB6D-4459-A1A7-F8CA287A396C",
+      "model": "American Professional Jazzmaster",
+      "manufacturer": "Fender",
+      "bodyType": "Solid",
+      "materials": {
+        "neck": "Maple",
+        "fretboard": "Rosewood",
+        "body": "Alder"
+      },
+      "strings": 6,
+      "image": "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0113970700_fen_ins_frt_1_rr.jpg"
+    },
+    {
+      "id": "D0CBF912-80A2-47C6-8EE7-5C598B996FF3",
+      "model": "Parallel Universe Maverick",
+      "manufacturer": "Fender",
+      "bodyType": "Solid",
+      "materials": {
+        "neck": "Maple",
+        "fretboard": "Ebony",
+        "body": "Alder"
+      },
+      "strings": 6,
+      "image": "https://www.fmicassets.com/Damroot/ZoomJpg/10001/0176741716_gtr_frt_001_rr.jpg"
+    },
+    {
+      "id": "E538B674-0E69-4D0B-80C1-C13B999C7629",
+      "model": "Les Paul Standard '50s",
+      "manufacturer": "Gibson",
+      "bodyType": "Solid",
+      "materials": {
+        "neck": "Mahogany",
+        "fretboard": "Rosewood",
+        "body": "Mahogany"
+      },
+      "strings": 6,
+      "image": "https://static.gibson.com/product-images/USA/USAUBC849/Gold%20Top/front-banner-1600_900.png"
+    },
+    {
+      "id": "2783989F-B771-4B20-B875-F0B39B4D4268",
+      "model": "SG Special",
+      "manufacturer": "Gibson",
+      "bodyType": "Solid",
+      "materials": {
+        "neck": "Mahogany",
+        "fretboard": "Rosewood",
+        "body": "Mahogany"
+      },
+      "strings": 6,
+      "image": "https://static.gibson.com/product-images/USA/USAPAH661/Vintage%20Cherry/front-banner-1600_900.png"
+    }
+  ],
+  "coffee": [
+    {
+      "id": 1,
+      "username": "dewaldels",
+      "orders": [
+        "Large Americano, no sugar, no milk",
+        "Regular Cappuccino, no sugar",
+        "Small Decaf, no sugar, no milk"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "What's the answer?",
+      "answer": "It's always been 42",
+      "tags": [
+        "general",
+        "react",
+        "test"
+      ],
+      "askedBy": "dewald",
+      "createdAt": "2021-12-01 14:00",
+      "active": true
+    }
+  ]
+}
